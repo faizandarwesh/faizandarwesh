@@ -1,8 +1,7 @@
 <p align="center">
   <a target="_blank"href="https://github.com/faizandarwesh"><img src="https://img.shields.io/badge/Muhamamd %20Farhan-Welcomes%20You-007afb?style=for-the-badge&logo=github&labelColor=2ea043&logoColor=FFFFFF&color=f0fff0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/muhammad-farhan-bakht/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mfarhan.jp@gmail.com?subject=Hello%20MuhammadFarhan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://stackoverflow.com/users/9141664/muhammad-farhan/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://pk.linkedin.com/in/faizan-darwesh-6322b1162"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://stackoverflow.com/users/16616583/faizan-darwesh"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=faizandarwesh&theme=vue-dark&show_icons=true&bg_color=000000" alt="Faizan Darwesh github stats"/>
