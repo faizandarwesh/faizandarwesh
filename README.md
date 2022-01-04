@@ -2,6 +2,7 @@
 
 <!--
 **faizandarwesh/faizandarwesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammad-farhan-bakht&theme=vue-dark&show_icons=true&bg_color=000000" alt="Muhammad Farhan github stats"/>
 
 Here are some ideas to get you started:
 
